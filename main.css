@@ -3,10 +3,9 @@
 #main {
   margin-left: 230px;
 }
-#aside {
-  display: none;
-}
+
 #content-body {
+  width: 675px;
   box-sizing: border-box;
   padding: 50px 50px 20px;
   margin-top: 30px;
