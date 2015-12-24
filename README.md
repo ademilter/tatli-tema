@@ -1,6 +1,8 @@
 # tatli-tema
 ekşi sözlük için sayfa ve tipografik iyileştirmesi
 
+[![](http://d.pr/i/10UhT+)](http://d.pr/i/10UhT)
+
 ### Kurulum
 - Tarayıcınıza **Stylish** eklentisini yükleyin
   - [Chrome için](https://chrome.google.com/webstore/detail/stylish/fjnbnpbmkenffdnngjfgmeleoegfcffe)
